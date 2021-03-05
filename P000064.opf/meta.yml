@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000064
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཆོས་མངོན་པ་མཛོད་ཀྱི་སྤང་བྱ་སྤོང་ཚུལ་གྱི་དཀའ་འགྲེལ་ལེགས་བཤད་ཉི་མའི་འོད་ཟེར་ལས་མཁས་པའི་གཏམ་བྱ་གསང་བ་སྒོ་འབྱེད་ཅེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མང་ཐོས་ཀླུ་སྒྲུབ་རྒྱ་མཚོ།
-  sku: IBA-LG-03-1
   layers:
   - book_title
   - author
   - quotation
+  id: IBA-LG-03-1
 web_metadata:
   title:
     en: Advice of the Learned to Unlock the Secret:An Explanation on the Difficult
